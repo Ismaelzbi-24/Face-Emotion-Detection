@@ -45,3 +45,11 @@ Face-Emotion-Detection/
 
 ## 👨‍💻 Author
 Your Name: SYED ISMAEL & MUNEER HUSSAIN
+
+## 📚 What I Learned
+
+- Image preprocessing and normalization techniques
+- Designing and training CNN architectures
+- Handling overfitting using validation techniques
+- Real-time emotion detection using OpenCV
+- Model evaluation using accuracy and loss metrics
