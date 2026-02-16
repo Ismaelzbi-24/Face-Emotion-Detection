@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # Face Emotion Detection using CNN
 
 ## 📌 Overview
