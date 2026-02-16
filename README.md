@@ -21,6 +21,13 @@ This project implements a Deep Learning based Face Emotion Detection system usin
 - NumPy
 - Matplotlib
 
+## 📈 Model Performance
+
+- Training Accuracy: 90%+
+- Validation Accuracy: 85%+
+- Loss Function: Categorical Crossentropy
+- Optimizer: Adam
+
 ## 📂 Project Structure
 Face-Emotion-Detection/
 │── dataset/
